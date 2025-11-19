@@ -16,7 +16,7 @@ public class FirstEven {
         if (firstEven.isPresent()) {
             System.out.println("First even number: " + firstEven.get());
         } else {
-            System.out.println("No even number found");
+            System.out.println("No even number found.");
         }                              
 
 
